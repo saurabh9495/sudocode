@@ -10,6 +10,7 @@ int main()
     for (lli i = 0; i < testcases; i++)
     {
         lli noe,val;
+        cin >> noe;
         vector<lli> v;
         for (lli j = 0; j < noe; j++)
         {
